@@ -32,9 +32,9 @@ A chat app made by Flutter and Firebase.
 - [ ] qiita
 - [ ] zenn
 - [ ] note
-- [ ] youtube(Demo）
-- [ ] Figma(design)
-- [ ] github project
+- [ ] [youtube](Demo)
+- [ ] [Figma](design)
+- [ ] [github project](https://github.com/users/neco3coffee/projects/4/views/1)
 
 ## Screenshot
 
