@@ -2,7 +2,9 @@
 A chat app made by Flutter and Firebase.
 
 ## Documentation
-- 
+- [flutter documentation](https://docs.flutter.dev/)
+- [firebase documentation](https://firebase.google.com/docs)
+- [FlutterFire documentation](https://firebase.flutter.dev/)
 
 ## Feature
 
